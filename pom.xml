@@ -41,6 +41,8 @@
         <descriptorRefs>
           <descriptorRef>jar-with-dependencies</descriptorRef>
         </descriptorRefs>
+        <finalName>socket-io-stress</finalName>
+        <appendAssemblyId>false</appendAssemblyId>
       </configuration>
     </plugin>
   </plugins>
